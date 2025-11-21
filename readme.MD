@@ -6,14 +6,14 @@
 
 ---
 
-# 🌟 À propos
+#  À propos
 
 Je suis **Kuzanwa Bashizi Emery**, développeur web passionné par la création d’interfaces modernes et l’optimisation de l’expérience utilisateur.  
 Je construis des projets en **HTML**, **CSS**, **UI/UX**, avec une approche professionnelle et structurée.
 
 ---
 
-# 🛠️ Technologies & Badges
+#  Technologies & Badges
 
 <div style="text-align:center;">
   <img src="https://skillicons.dev/icons?i=html,css,github,git,figma,vscode" />
@@ -28,7 +28,7 @@ Je construis des projets en **HTML**, **CSS**, **UI/UX**, avec une approche prof
 
 ---
 
-# 🌐 Pages du site
+#  Pages du site
 
 | Page           | Description |
 |----------------|-------------|
@@ -39,21 +39,21 @@ Je construis des projets en **HTML**, **CSS**, **UI/UX**, avec une approche prof
 
 ---
 
-# 💡 Projets récents
+#  Projets récents
 
-### 1️⃣ Portfolio Personnel Moderne
+###  Portfolio Personnel Moderne
 ![Portfolio](images/project1.png)
 - Site complet en HTML/CSS
 - Design responsive et UX centrée sur la simplicité  
 [Voir le projet](projet.html#project1)
 
-### 2️⃣ Interface UI/UX – Dashboard
+###  Interface UI/UX – Dashboard
 ![Dashboard](images/project2.png)
 - Tableau de bord moderne et ergonomique
 - Hiérarchie visuelle et palette cohérente  
 [Voir le projet](projet.html#project2)
 
-### 3️⃣ Gestion de Version GitHub
+###  Gestion de Version GitHub
 ![GitHub](images/project3.png)
 - Workflow complet : branches, commits structurés
 - Déploiement via GitHub Pages  
@@ -61,7 +61,7 @@ Je construis des projets en **HTML**, **CSS**, **UI/UX**, avec une approche prof
 
 ---
 
-# 📂 Structure des fichiers
+# Structure des fichiers
 
 ```txt
 mon-portfolio/
